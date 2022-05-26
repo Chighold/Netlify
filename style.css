@@ -1,0 +1,42 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+div { width: 30;
+    margin: 100px auto;
+    text-align: center;
+    font-weight: 50px;
+    padding-right: 100px;
+    font-style: normal;
+    font-family: sans-serif;
+}
+
+p {width: 30;
+   margin-right: auto;
+   font-size: medium;
+   font-weight: 10;
+   font-size: small;
+   font-style: normal;
+}
+h1 {
+    font-weight: 30px;
+    font-family: sans-serif;
+}
+.cta {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 5px;
+    width: 400px;
+    margin: 10px auto;
+}
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+.black {
+    background-color: black;
+}
+
